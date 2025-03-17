@@ -1,3 +1,7 @@
+.ratings-row {
+  display:none !important;
+}
+
 .rating-entry{
   color: #ffc1cc;
 }
